@@ -1,0 +1,20 @@
+* { 
+	font-family: 'Assistant', sans-serif;
+
+
+ }
+
+.role {
+	float: left;
+}
+.date {
+	float: right;
+}
+.cause_school {
+	float: left;
+}
+
+.cause_school_date {
+	text-align: right;
+
+}
